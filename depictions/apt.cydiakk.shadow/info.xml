@@ -1,0 +1,23 @@
+<package>
+	<id>apt.cydiakk.shadow</id>
+	<name>Shadow「屏蔽越狱检测」</name>
+	<version>2.0.20</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Shadow「屏蔽越狱检测」</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,23 @@
+<package>
+	<id>com.ijinshan.beijing.kbatterydoctor</id>
+	<name>金山电池医生—手机省电卫士&内存管家</name>
+	<version>6.0.20426.454</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>金山电池医生—手机省电卫士&内存管家</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

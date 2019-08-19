@@ -1,0 +1,23 @@
+<package>
+	<id>apt.cydiaba.ntspeed</id>
+	<name>NtSpeed悬浮网速</name>
+	<version>0.2-3+debug</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>NtSpeed悬浮网速</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

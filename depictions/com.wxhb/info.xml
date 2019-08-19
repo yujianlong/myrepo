@@ -1,0 +1,23 @@
+<package>
+	<id>com.wxhb</id>
+	<name>多米诺骨牌源™分类图标</name>
+	<version>3.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>多米诺骨牌源™分类图标</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,23 @@
+<package>
+	<id>apt.cydiakk.april</id>
+	<name>April 系统优化</name>
+	<version>2.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>April 系统优化</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

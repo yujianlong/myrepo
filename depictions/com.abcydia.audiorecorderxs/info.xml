@@ -1,0 +1,23 @@
+<package>
+	<id>com.abcydia.audiorecorderxs</id>
+	<name>AudioRecorder XS 通话录音</name>
+	<version>3.0-79-3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>AudioRecorder XS 通话录音</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

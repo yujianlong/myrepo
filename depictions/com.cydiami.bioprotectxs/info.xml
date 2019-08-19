@@ -1,0 +1,23 @@
+<package>
+	<id>com.cydiami.bioprotectxs</id>
+	<name>BioProtect XS 指纹/面容加密</name>
+	<version>4.0-71k</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>BioProtect XS 指纹/面容加密</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

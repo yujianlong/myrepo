@@ -1,3 +1,676 @@
+Package: acreson.app.395
+Version: 1.1.5-9
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/acreson.app.395_1.1.5-9_iphoneos-arm.deb
+Size: 11095600
+MD5sum: 9cf4f2d9f8f60ee242e31abb842cdcea
+SHA1: bdd921dac4c6ed41f1ca1e51e669bd1fe2c15ec6
+SHA256: a769c279fa069273699d65d4496df5ed9fa5775511d27d080e1caff33864c8a3
+Section: Acreson-软件(Applications)
+Description: 开车app
+Author: CokePokes
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-iNutt
+
+Package: acreson.app.bikagg
+Version: 2.1.1.6
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 9.2)
+Filename: ./debs/acreson.app.bikagg_2.1.1.6_iphoneos-arm.deb
+Size: 14098188
+MD5sum: c927e9a59057a50bdb5fce2bf87a957c
+SHA1: f18b4fc8efe8538f99c376314993b66e323177bb
+SHA256: c96d5f8281a18e49ce18b0749f77374ebec61d7e89fd3f000728cf92c2aa8731
+Section: Acreson-软件(Applications)
+Description: 哔卡哔卡～18R+漫画软件
+Author: Netskao
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-Bika CG
+
+Package: acreson.app.newt66y
+Version: 2.3.2
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 9.0)
+Filename: ./debs/acreson.app.newt66y_2.3.2_iphoneos-arm.deb
+Size: 7527768
+MD5sum: 03e6a5efee4d310dc80753e61ad69a5a
+SHA1: 0b595f1ccb8d4655122b274dc70a51bf8413b3bb
+SHA256: 27d9303049ea864078436bc1fea033494d7f59f5b9ca618cdd286a8b0ed7256d
+Section: Acreson-软件(Applications)
+Description: 1024你懂的
+Author: T66y
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-1024
+
+Package: acreson.app.panda
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Acreson
+Depends: firmware (>= 8.0)
+Filename: ./debs/acreson.app.panda_1.1.0_iphoneos-arm.deb
+Size: 21948908
+MD5sum: 8c65f46887708638742dd4b08b703a21
+SHA1: fab733ad17199a008738655f1b76939ea1495a73
+SHA256: 71ae09c95751b18895ea8b217237250a27ba9f8a7aa65024dae5ec39a80c357f
+Section: Acreson-软件(Applications)
+Description: 熊猫助手免费版，已砸壳转deb，去企业证书验证
+Author: Acreson
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+Name: APP-Panda
+
+Package: applist
+Version: 1.5.15~beta1
+Architecture: iphoneos-arm
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./debs/applist_1.5.15~beta1_iphoneos-arm.deb
+Size: 104688
+MD5sum: 3b8f3eae78bbe77a9c56c1863561616b
+SHA1: 8f0f5a673559e3161a33c0bfa0caca03b67cdbc0
+SHA256: 314b4ce49c8103fd4f26e325389baa453f92f4fb9bd48d0bb0da66ad0297400b
+Section: 插件依赖
+Author: Ryan Petrich <rpetrich@gmail.com>
+Icon: https://apt.wxhbts.com/icon/%E6%8F%92%E4%BB%B6%E4%BE%9D%E8%B5%96.png
+Name: AppList
+
+Package: apt-key
+Version: 1.4.9-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 64
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: coreutils, libapt
+Conflicts: apt7-key (<<1:0)
+Breaks: apt7-key (<<1:0)
+Replaces: apt (<< 1:0-1), apt7 (<< 0.7.20.2-4), apt7-key
+Filename: ./debs/apt-key_1.4.9-2_iphoneos-arm.deb
+Size: 8404
+MD5sum: fb556613b51f801be5295ee35ff02ecc
+SHA1: ee61c68de53b9525e7da3f912ccd705f88b23f3d
+SHA256: b192d296bed789051bfd5f3e8b52aba3e9ebb025db4bd0e9a889b83aa1590362
+Section: Packaging
+Priority: standard
+Description: repository encryption key management tool
+Name: APT (apt-key)
+
+Package: apt.cydiaba.ntspeed
+Version: 0.2-3+debug
+Architecture: iphoneos-arm
+Essential: no
+Installed-Size: 15
+Depends: mobilesubstrate
+Filename: ./debs/apt.cydiaba.ntspeed_0.2-3+debug_iphoneos-arm.deb
+Size: 15254
+MD5sum: 8288d3da8183eac4e8823941864398fa
+SHA1: 97af6e07898d0abc39576e9d6169e7eb234a062d
+SHA256: 03791ceb618d3cd41de2b3468bbd4ce9abf76e1310992278bff2938a62ae4308
+Section: TB-工具
+Priority: standard
+Tag: role::enduser
+Author: julioverne
+Name: NtSpeed悬浮网速
+Section1: iOS10
+Section2: iOS11
+Section3: iOS12
+Section4: 0
+
+Package: apt.cydiakk.Recorderxss
+Version: 3.0-74k
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 7352
+Depends: mobilesubstrate, preferenceloader,firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, apt.cydiakk.audiorecorderxs
+Filename: ./debs/apt.cydiakk.recorderxss_3.0-74k_iphoneos-arm.deb
+Size: 1473782
+MD5sum: 6768c1df3bf604cc7d16ff318851e5ae
+SHA1: 766fc5fd79fe0230b120daa049f9df47a08b4503
+SHA256: c71d68d36eac570b47083e4efcc9c55a2e97570f24f346eeba1f7f6ee96ae844
+Section: 工具
+Author: Elias Limneos <limneoselias@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: AudioRecorder XS 通话录音破解版
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.Shadowrocket
+Version: 2.1.21
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 36073404
+Pre-Depends: firmware (>=6.0)
+Filename: ./debs/apt.cydiakk.shadowrocket_2.1.21_iphoneos-arm.deb
+Size: 5976400
+MD5sum: 0795edeff62ed8d244ce6a2005bb84df
+SHA1: 9a6e38bb3023f3c0a60d64d07917610b3879c4f9
+SHA256: 480a0ccd9eff2f9959e2f92d98d7cd5cfd9fb257e82eca23464511ba5fd98026
+Section: 工具
+Priority: standard
+Author: MM
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Shadowrocket 小火箭科学上网
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.WeChatHookPro
+Version: 0.3-5
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/apt.cydiakk.wechathookpro_0.3-5_iphoneos-arm.deb
+Size: 1374344
+MD5sum: 3f2a695fd75d4d225019b24390ccba75
+SHA1: 364e6f1d0c13aca15c9bb9b3dac49a4ec55c6bca
+SHA256: bb0943de2bce3b2869aab71521af067316d8ac9a57580b5d29cc45c7b957c597
+Section: 微信
+Priority: optional
+Author: Mao
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: WeChatHookPro 多功能微信助手
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.animationbefast
+Version: 1.4.7k
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: mobilesubstrate
+Filename: ./debs/apt.cydiakk.animationbefast_1.4.7k_iphoneos-arm.deb
+Size: 30542
+MD5sum: 393c4fcd461490a71531c6cfca5733f0
+SHA1: 881a9b8583f52ab376d873163a0649df715dab09
+SHA256: 74e9dfbcc09e8676264cd2093981d5b2febb18f9192fb6c56165a90f7d435cd1
+Section: 插件
+Author: Adam Seiter
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: AnimationsBeFast 系统UI加速
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.april
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 872
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Conflicts: com.cydiaba.april, com.hongv.april
+Filename: ./debs/apt.cydiakk.april_2.1_iphoneos-arm.deb
+Size: 172132
+MD5sum: 2a8b3829028a2e59512d9a59cb6856bd
+SHA1: 263915a74a5affb22984c4cd023cc40d654dd25d
+SHA256: 55872b5ebf557968472851bb6f0cffba2a31d3ca3a3991a60fd6c2ace43975ea
+Section: 系统
+Author: 红V
+Icon: file:///Applications/Cydia.app/Sections/Scripting.png
+Name: April 系统优化
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.boostedwifi
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 100
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/apt.cydiakk.boostedwifi_1.0.1_iphoneos-arm.deb
+Size: 5064
+MD5sum: cd4e478d1f8af35b09fc7ecb429f13cd
+SHA1: dd2d2808b932501cafccd2a49521a15ca7688f1d
+SHA256: dfd67a69ffddcc4824bc956e9fb664cf7cd4468b092540ca1c4c7c01bc42f85f
+Section: 插件
+Tag: purpose::extension, compatible::ios11
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: BoostedWifi 无线增强
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.catchathief
+Version: 1.0.2
+Architecture: iphoneos-arm
+Installed-Size: 106
+Depends: mobilesubstrate
+Filename: ./debs/apt.cydiakk.catchathief_1.0.2_iphoneos-arm.deb
+Size: 9324
+MD5sum: d0062d633a1337fe22c08b4c2ea40a0e
+SHA1: e6d6de7b1cae092df36257bd9460ceb08cb4642d
+SHA256: ed6f29b2902acc328b0c137ae553229108c05b51424276f3c932c198c968b1b8
+Section: 插件
+Author: Jake James
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: CatchaThief 输错密码拍照
+
+Package: apt.cydiakk.cydiaquick
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: mobilesubstrate
+Filename: ./debs/apt.cydiakk.cydiaquick_2.1.1_iphoneos-arm.deb
+Size: 37026
+MD5sum: f849141d1487bf32ccdddd7677a80897
+SHA1: 81ed5d4ca5dab0a6bcc613e95cd9248eccbf3a8b
+SHA256: bef3b9d1dc2ef41a4313a8595c5ca73ac553d2d272834e22c34a3381294161d2
+Section: 插件
+Author: iBreak <ibreK2019@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Cydia加速启动载入
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.eclipse12
+Version: 6.1.2
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 1560
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 12.0), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/apt.cydiakk.eclipse12_6.1.2_iphoneos-arm.deb
+Size: 630266
+MD5sum: f83289bc22f039c18d5f4b0f529cb100
+SHA1: 34b0ebd839c80584c54adf051f5b60bd0d2a3354
+SHA256: 8939f9adb9990567bae755009ab8ce12ab42aefd5cf611b14cfa5e26a15caa5f
+Section: 插件
+Author: Guillermo Morán (fr0st)
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Eclipse 12 夜间模式
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.home
+Version: 2.3
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.abcydia.homepage, com.cydiaapp.home,apt.ios11.home, com.wxhbts.home, com.cydiami.home
+Filename: ./debs/apt.cydiakk.home_2.3_iphoneos-arm.deb
+Size: 21830
+MD5sum: 7cf0b64645268611d2bd0b138d5310a7
+SHA1: b4ed6ceac81b2c68315c272d6b2af146bfb49d33
+SHA256: a8925eb0e0ad36ffdd67b8127d84ed5be26edc1f6fbc2e4fc1591bc756f7e5ea
+Section: 系统
+Priority: Required
+Author: Cydiakk <http://apt.cydiakk.com>
+Icon: file:///Applications/Cydia.app/Sections/Scripting.png
+Name: Cydiakk中文源™首页
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.midevice
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, me.nepeta.libcolorpicker, applist, com.chpwn.iconsupport
+Filename: ./debs/apt.cydiakk.midevice_1.0.0-3_iphoneos-arm.deb
+Size: 195960
+MD5sum: a40d89c4d114a67e2472ddb7a9e5a2f6
+SHA1: 2ae76e69f88dfc081de174711a31d5d2c5fa835d
+SHA256: ef2c0a70b9cd091ac9f464b5f8a4aaa6b68120cb0301adf2f8a7a93fb8282bba
+Section: 插件
+Author: DODGraphics
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: MiDevice 终极军刀
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.netfix
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Cydiakk <http://apt.cydiakk.com>
+Depends: firmware (>= 10.2.1)
+Filename: ./debs/apt.cydiakk.netfix_1.0-1_iphoneos-arm.deb
+Size: 882
+MD5sum: 69440d90ac80875cbdc981f79b2ec37a
+SHA1: 4b6d84e72008de85f8f69c0360483c2be1cc2a35
+SHA256: 8c903de95946379c49e34996d8fe257fdf937ebbb85781aae727648ec3f1a0d6
+Section: 插件
+Author: Cydiakk <http://apt.cydiakk.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Netfix Cydia联网修正
+Sponsor: Cydiakk <http://apt.cydiakk.com>
+
+Package: apt.cydiakk.nfcwriterxs
+Version: 2.0-7k
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: ./debs/apt.cydiakk.nfcwriterxs_2.0-7k_iphoneos-arm.deb
+Size: 534172
+MD5sum: ac8225893ce88b1b13770759b641e085
+SHA1: 6ffeab863104f41a0dcb30a4fd8d4b1d669e016c
+SHA256: 7963059ba5bd46696612dcc566bde10ec9a2254532ff1a39ea8eb0cf6ddeb2a4
+Section: 工具
+Author: Elias Limneos
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: NFCWriter XS 激活原生NFC
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.safeshutdown
+Version: 1.40k~3
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 850
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: ./debs/apt.cydiakk.safeshutdown_1.40k~3_iphoneos-arm.deb
+Size: 338734
+MD5sum: c9c64e3fec4e162c6ea3362e5b7fb7da
+SHA1: 59d83a78794faf39f7953f2e6e880b3c4c944ae4
+SHA256: 0d7b4188884415434ea08cc3a88d786395197dd457631b9a5e515b519bb61da5
+Section: 插件
+Author: Kurrt <dev@kurrt.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SafeShutdown 电池管理
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.shadow
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./debs/apt.cydiakk.shadow_2.0.20_iphoneos-arm.deb
+Size: 135804
+MD5sum: 62f070dd373cc8cc8f17bab68b8b12b2
+SHA1: e6bfa6285fafb5fde6826ee467af30aa69c25cc3
+SHA256: 328b4d4e050b4b11752ec96c162eebd2528a1f4d8dab69c876f7ea8398a485c1
+Section: 插件
+Author: jjolano
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: Shadow「屏蔽越狱检测」
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.stealthsnap2
+Version: 2.0beta
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Filename: ./debs/apt.cydiakk.stealthsnap2_2.0beta_iphoneos-arm.deb
+Size: 870
+MD5sum: b7053c2a0a466f7c0bce7fbdc2a1c080
+SHA1: bb975b3e455b148a8d9c9856a01160372e81c19f
+SHA256: c9b35478068fcecf3c8a31d55f170d607b32de1a0ac10c8aba16c15a46b4c953
+Section: 系统
+Author: Steal
+Icon: file:///Applications/Cydia.app/Sections/Scripting.png
+Name: stealthsnap-去除拍照快门声
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.storeswitcher2
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 276
+Depends: firmware (>= 11), mobilesubstrate
+Filename: ./debs/apt.cydiakk.storeswitcher2_1.0.3_iphoneos-arm.deb
+Size: 21862
+MD5sum: 241a8a37a634bac9b03cf650a0ab162a
+SHA1: 6dc449931f53cd36f4ceb83e6159d6798c01c542
+SHA256: d46dca3725ea744e563a729f0058197f1b8b72c78132a48b642f56c1bb95bce0
+Section: 插件
+Author: subdiox
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: StoreSwitcher 2 账号切换
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.tetherme8
+Version: 1.2.2-5
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), network-cmds | firmware (>= 11.0)
+Conflicts: net.tetherme.tetherme
+Replaces: net.tetherme.tetherme
+Filename: ./debs/apt.cydiakk.tetherme8_1.2.2-5_iphoneos-arm.deb
+Size: 82850
+MD5sum: f69d07dd4e1530c60c13fc217dd3d5cc
+SHA1: 6f3cd4e65c5193333aad6ee571490cad3e4de253
+SHA256: 0f8502bebab8286843e692de5582f9b9005b97392011f613f567ce34d7f114d0
+Section: 插件
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Author: Sam Bingner <support@tetherme.net>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: TetherMe 热点共享增强
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: apt.cydiakk.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Cydiakk中文源™ <admin@cydiakk.com>
+Installed-Size: 624
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12, com.inoahdev.launchinsafemode
+Filename: ./debs/apt.cydiakk.unsub_0.1.9_iphoneos-arm.deb
+Size: 42128
+MD5sum: 59886c2819ecbb66f2bd48532dac84b1
+SHA1: 8012239cd84896a76289ebf173f42b075bb6b5b8
+SHA256: 8003eb5007656270a218965f9a5a51943840f6566d872ac1de9e20c2a47d3850
+Section: 插件
+Author: Nepeta
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: UnSub 绕过越狱检测
+Sponsor: Cydiakk中文源™ <http://apt.cydiakk.com/>
+
+Package: cn.crak.HYWIFI
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Feng.com <support@office.feng.com>
+Filename: ./debs/cn.crak.hywifi_1.0_iphoneos-arm.deb
+Size: 2568930
+MD5sum: bf7b87487f13c154e9d7580524453a06
+SHA1: 17794bb3464ad893c8b7343b846e6440f6b7cf67
+SHA256: 8bb0a6c1ec1d96c3edf7eb43995afe76fc0550b6b25d27113cad2850adf9c901
+Section: Hack-CN
+Priority: standard
+Description: Wifi Password Crack-wifi密码破解工具
+Author: 幻影 <support@office.feng.com>
+Name: 幻影WIFI
+Sponsor: Feng.com <http://www.feng.com>
+
+Package: cn.tinyapps.renet
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5712
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.tinyapps.renet_1.0_iphoneos-arm.deb
+Size: 1976852
+MD5sum: 9a5eb7f7401415e38b4a3fb6dc49df36
+SHA1: 2fccd089c98cfa385d26c7350a58e98e01ddd52f
+SHA256: 5a557f9b15ac05c9f6bce256ed2ae13035459693ac10a8d4770635923de2f12a
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Description: 修复越狱后Cydia等各种软件无法联网的问题
+Tag: purpose::extension, role::enduser, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Tinyapps <tinyapps@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Dev: tinyapps
+Icon: file:///Applications/Renet.app/AppIcon20x20@3x.png
+Name: 连个锤子-越狱联网一键修复
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.a3tweaks.flipswitch
+Version: 1.0.16~beta5
+Architecture: iphoneos-arm
+Installed-Size: 2396
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.7~beta1) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Filename: ./debs/com.a3tweaks.flipswitch_1.0.16~beta5_iphoneos-arm.deb
+Size: 295210
+MD5sum: e0ac09fb29781fd95a93d45cc10d06d7
+SHA1: e4de59cdb24018528febce28574858b455970202
+SHA256: c79fcc38f029a333b80c77330ea18c84eb8bcfccda57f26efaeab0fb2c73812c
+Section: 插件依赖
+Author: rpetrich & A3Tweaks <rpetrich+flipswitch@gmail.com>
+Icon: https://apt.wxhbts.com/icon/%E6%8F%92%E4%BB%B6%E4%BE%9D%E8%B5%96.png
+Name: Flipswitch
+
+Package: com.abcydia.Flex3beta
+Version: 1:3~Beta63
+Architecture: iphoneos-arm
+Maintainer: WZteam <admin@abcydia.com>
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: ./debs/com.abcydia.flex3beta_3~Beta63_iphoneos-arm.deb
+Size: 21260164
+MD5sum: 9bf15501f283f6f80040d777755f9276
+SHA1: 9e1fbb77ceb18add8515730e3603b9cc98308c64
+SHA256: 82877351f0ef038bf906c7f6467d605c1ea865f697ef4d3df23a9e893fa70c55
+Section: Utilities
+Description: 简单实用的图形化程序修改器
+Author: John Coates
+Name: Flex 3 Beta 程序修改器
+Sponsor: ABCydia <http://www.abcydia.com>
+
+Package: com.abcydia.audiorecorderxs
+Version: 3.0-79-3
+Architecture: iphoneos-arm
+Maintainer: WZteam <admin@abcydia.com>
+Installed-Size: 7352
+Depends: mobilesubstrate, firmware(>=12.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.limneosos, com.hackyouriphone.limneosos, ru.rejail.limneosos
+Replaces: net.limneos.audiorecorder, net.limneos.audiorecorderx,net.limneos.audiorecorderxs
+Filename: ./debs/com.abcydia.audiorecorderxs_3.0-79-3_iphoneos-arm.deb
+Size: 2183574
+MD5sum: e2759ff6f4c63e332e3300da84ff5e79
+SHA1: d8e62e0e6778f322df254cfe9e44667a17eeab7e
+SHA256: ebf36f3e5579127635038f8e5781166855e62e5512ff1fa5414039e9b7e6d97a
+Section: Utilities
+Description: iOS圈第一款通话录音软件
+Author: Elias Limneos
+Name: AudioRecorder XS 通话录音
+Sponsor: ABCydia <http://www.abcydia.com>
+
+Package: com.banma-inc.wifisw
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 13117
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.banma-inc.wifisw_1.0.3_iphoneos-arm.deb
+Size: 7464674
+MD5sum: 8a136407953cf084cebf3bbe71564b74
+SHA1: 9bf1762a5d4f25d12a213c5e1ee6c1b6325d388c
+SHA256: ef8c7d5b47531f1c466f5deb21314ad068e17ea5e79b0928a2d2ca356b4d9dac
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wificonnectDp
+Description: 想知道哪里有wifi吗？想在手机上直接播放自己电脑上的视频吗？那就赶紧来下载吧！WiFi上网精灵随时告诉你周围的wifi热点，并且无需数据线
+Tag: purpose::uikit, role::enduser, ios7support::1, ios8support::1
+Author: Support <appservice@tx-network.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wificonnectDp
+Dev: txnetwork
+Icon: file:///Applications/WifiConnect_iphone.app/icon.png
+Name: WiFi上网精灵
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.chpwn.iconsupport
+Version: 1.11.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 244
+Pre-Depends: firmware (>= 3.0)
+Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
+Filename: ./debs/com.chpwn.iconsupport_1.11.1_iphoneos-arm.deb
+Size: 28706
+MD5sum: aba48774c54d8272d78eb06b522d57e8
+SHA1: 71c4e1896403ebf647783c9732015ef9381e6726
+SHA256: f853c93ad6fcead89944cee35c8aba97c2286d622d749354ce660b3d31def50a
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Description: Support library for safe icon tweaks.
+Tag: role::developer, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
+Dev: ashikase
+Name: IconSupport
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.crak.hgsp
+Version: 99.99.99.99
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.crak.hgsp_99.99.99.99_iphoneos-arm.deb
+Size: 36038248
+MD5sum: a54372cb94f5ed14d509096d63b31cfe
+SHA1: 1d4eb9680892706565e4531ebed4bad289717c9d
+SHA256: 93ada2bab9ef5d9c4c6540e4ed85b7f3ab0f925997c83c62b65387792fad8794
+Section: Plugin11-CN
+Description: 黄瓜视频，老司机懂得。配合Flex补丁可以无限播放，不限次数，安装后闪退的就是不支持你当前版本，经过测试1.1.0版本flex补丁失效，次数为0后提示无法链接，在1.0.6基础上修改版本号屏蔽应用内更新提示。
+Name: 黄瓜视频 (屏蔽更新版)
+
+Package: com.crak.huanggua116
+Version: 1.1.6
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.crak.huanggua116_1.1.6_iphoneos-arm.deb
+Size: 56547966
+MD5sum: affe585d7e74820e2c852132f2c11404
+SHA1: da3b836805ed283e1b97183d277fd96c86e76e1a
+SHA256: 29d49d861f7c3dd4f626e37f8aac4a4c75e49d8551b0c4dfdb9ba2d4eef00bea
+Section: Plugin12-CN
+Description: 一根黄瓜，纯绿色食品，又香又脆。
+Name: 绿色黄瓜
+
+Package: com.crak.huangguashipinhook
+Version: 0.1-5
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.crak.huangguashipinhook_0.1-5_iphoneos-arm.deb
+Size: 154727
+MD5sum: 330d1cb86b6398db3f80b6f7ff8019e8
+SHA1: 9e199ab2b6c8ffc2319620d02b89b4cc71682803
+SHA256: a36647f2c7c23ffaec11b2ec393b13c9f261b29b21106a93f0a7f7f914eb7243
+Section: Crack-CN
+Priority: optional
+Description: 修复无限播放问题，无需登录即可无限播放与无限下载，新增com.app.hgav bundle id。
+Name: 黄瓜视频+
+
+Package: com.crak.pandahelpervip
+Version: 1.0.4.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.crak.pandahelpervip_1.0.4.1_iphoneos-arm.deb
+Size: 10625255
+MD5sum: 3821985e5ef7f70019a2c256dea3866c
+SHA1: 402f9393818596a8af7608f8f252fd559c4ff758
+SHA256: 5bb9b96d810d2a8f8d32b71f0ccd9519440b6b137180c4621b372dffd756fcf6
+Section: Plugin11-CN
+Description: 熊猫助手VIP版，国外应用商店，不要安装里面越狱工具，经测试重启后工具会闪退。
+Name: Panda Helper VIP
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 502
+Depends: firmware (>= 7.0), applist
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0_iphoneos-arm.deb
+Size: 84026
+MD5sum: b211aeb172e77e51b75ddf35efb66956
+SHA1: 9aa5a286da9ceeee447aecebf56d332f3820ad8d
+SHA256: 199ced0792b798a8402b382863ea899faf8872fb9fadf99fc6610c633fde93f4
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcscolorpickerDp
+Description: A minimal color picker library for developers
+Tag: purpose::library, cydia::obsolete, compatible::ios10, compatible::ios11, compatible::ios12
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcscolorpickerDp
+Dev: creaturecoding
+Name: libCSColorPicker
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cydiaapp.+vpncrack
+Version: 1.0-1
+Architecture: iphoneos-arm
+Installed-Size: 580
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.+vpncrack_1.0-1_iphoneos-arm.deb
+Size: 184676
+MD5sum: de4ef82655cc3ee951a35db3ad64eb57
+SHA1: d8f8224c07c77edd689bb7c426146a1150f779e5
+SHA256: 1dc071b75f892b99fe445c69c476e428c0d92a001276df95102ee169132a46a5
+Section: 应用插件‣
+Tag: cydia::commercial
+Author: 7Loopy
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: VPN破解
+
 Package: com.cydiaapp.1024a
 Version: 3.2
 Architecture: iphoneos-arm
@@ -17,6 +690,703 @@ Author: 1024
 Icon: https://cydiavip.com/icon/sileo/sileo2.png
 Name: 1024客户端
 
+Package: com.cydiaapp.bobosp
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.bobosp_0.0.1-1_iphoneos-arm.deb
+Size: 16794
+MD5sum: bc431871cc7c2b2a9520c70460a7d2df
+SHA1: a02b5e41ec36948b057258efd14d6b2d1f2cb827
+SHA256: f2e1180f0a802987d3c6ff0376fe91ac4f9287b90a048e3c68e0f64c06cd2341
+Section: 应用插件‣
+Tag: cydia::commercial
+Author: bobo
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: BoBo视频无限看
+
+Package: com.cydiaapp.dcjpj
+Version: 1.7
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.dcjpj_1.7_iphoneos-arm.deb
+Size: 7550762
+MD5sum: d4501eb40252d9a135712839f74b30c7
+SHA1: 87a2397ba4231b40fd1527362a40a2118f7568bb
+SHA256: 308c0c6e53c95b7e1c11da9997ae64e39e84abec52df66f69d37d1c1a8a862b6
+Section: APP应用‣
+Tag: cydia::commercial
+Author: dachang
+Icon: https://cydiavip.com/icon/sileo/sileo2.png
+Name: 大长精破解
+
+Package: com.cydiaapp.dfhpj
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.dfhpj_1.1_iphoneos-arm.deb
+Size: 30669592
+MD5sum: 392d115cb01dbc88c51b9a47a22f91cc
+SHA1: 83c02f9b361110b32d57471054840045667dbca7
+SHA256: 717e73655e190daf52b4acba093ae3d5d0b7c3e89fa643a7fd0751c12c806e36
+Section: APP应用‣
+Tag: cydia::commercial
+Author: fanhao
+Icon: https://cydiavip.com/icon/sileo/sileo2.png
+Name: 大番号破解
+
+Package: com.cydiaapp.newytsp
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.newytsp_1.0.0_iphoneos-arm.deb
+Size: 11881004
+MD5sum: ce5e78cf5a3bb7c6f532062d21dbe763
+SHA1: 00cfc3494b60d789040d2233f2dbe30d165464e2
+SHA256: f339784b1e9c038fc142a06caf7472a37726cebd36da8d0b8daaa52b02c8df29
+Section: APP应用‣
+Tag: cydia::commercial
+Author: yingtao
+Icon: https://cydiavip.com/icon/sileo/sileo4.png
+Name: 新樱桃视频无限看
+
+Package: com.cydiaapp.safariplus
+Version: 1.7~b7
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.cydiaapp.safariplus_1.7~b7_iphoneos-arm.deb
+Size: 1418172
+MD5sum: cb925addf30cbd32b4faed5cee3ca680
+SHA1: ceaf90512cd7419d019a6285a8fd6b4f285a5ea5
+SHA256: def4f97650ec4eff0c55b48637aa4765cecef73ca1d68838e0087a7fd2820718
+Section: 应用插件‣
+Author: opa334 <opa334@protonmail.com>
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: Safari Plus 浏览器增强
+
+Package: com.cydiaapp.scdzs
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.scdzs_0.0.1-1_iphoneos-arm.deb
+Size: 9354
+MD5sum: 23f0bb84a09f34e94c73e68816d925c6
+SHA1: 97065f6ea086e0fafeddc134c30ada0fc796044c
+SHA256: 84801615aa1795bfc4fe95829e1235690a791cb1b484bdf4b1af50d78430e999
+Section: 应用插件‣
+Tag: cydia::commercial
+Author: sheng
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: 圣才电子书破解
+
+Package: com.cydiaapp.solovpncrack
+Version: 1.0
+Architecture: iphoneos-arm
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.solovpncrack_1.0_iphoneos-arm.deb
+Size: 9162
+MD5sum: a6de9279fe355d45b209bccfaa4afd9d
+SHA1: 06071d2808ee541ad5e8cbaf211e73513dabfd4c
+SHA256: 7016ce00835b12cc3c58df7fc1d8c8deab9cd99e914e5768160f1fa7ac53b172
+Section: 应用插件‣
+Author: 7Loopy
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: SoloVPN 破解
+
+Package: com.cydiaapp.starvpn
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Hiroko
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.starvpn_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5314
+MD5sum: 2d8307e92bdee6bf679ba44a64eece51
+SHA1: 5d82231ee4379f76145e3d00c30be4111b125059
+SHA256: c2002c1b365c8f0b1206a20d67cc2552d7ab107b4c0325b0192b4a2c8aec2d20
+Section: 应用插件‣
+Author: orgempire
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: star vpn 破解VIP
+Sponsor: Hiroko
+
+Package: com.cydiaapp.svipcydia.avhelp
+Version: 3.0.4
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.svipcydia.avhelp_3.0.4_iphoneos-arm.deb
+Size: 276750
+MD5sum: 30e68a8fb7f0daaf2da756ac577d36fd
+SHA1: f95f7c3d396ff298fa93077ad21582b3935217da
+SHA256: f187000ededf3b77333b9e25cdcaa13167b056e0f6f1aef5ea90931a5e90c8c9
+Section: 系统插件‣
+Tag: cydia::commercial
+Author: play
+Icon: https://cydiavip.com/icon/sileo/sileo4.png
+Name: AVPlayer 特权助手
+
+Package: com.cydiaapp.svipcydia.huli.list
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.svipcydia.huli.list_0.0.1-2_iphoneos-arm.deb
+Size: 14952
+MD5sum: 3310ce5545b4cb1878b3fc5d78ccd797
+SHA1: c342e0112d07e6e5439bcb08dc9a8f2f4911d299
+SHA256: f3c760d9682aa71ac811f1e73462217d479f0867371cd9af9c3cbd403b9c3a9a
+Section: 应用插件‣
+Tag: cydia::commercial
+Author: huli
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: 狐狸视频无限看
+
+Package: com.cydiaapp.svipcydia.papab
+Version: 0.0.1-3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.svipcydia.papab_0.0.1-3_iphoneos-arm.deb
+Size: 16566
+MD5sum: 130ce9e446d72af7c7a6fc6c70897314
+SHA1: be58b266a04d1e0239e72035fbc01f447c6b8ca7
+SHA256: cf0c6b9eebd7937ce2eeabd6e5a091050f92404287db9e652c4b59dfcdbf1555
+Section: 应用插件‣
+Tag: cydia::commercial
+Author: papab
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: 啪啪B无限看
+
+Package: com.cydiaapp.tsxspvip
+Version: 2.0.2-1
+Architecture: iphoneos-arm
+Filename: ./debs/com.cydiaapp.tsxspvip_2.0.2-1_iphoneos-arm.deb
+Size: 14624
+MD5sum: 9072393e81563e77d9b55d12afe4a150
+SHA1: 39d55e7bb17abd70183cb1479851628bc4b4d46c
+SHA256: 28986fcc4d5c4267138e2e8db8439b6fa2d426533dc94ab5e87de48935d47551
+Section: 应用插件‣
+Tag: cydia::commercial
+Author: pro
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: 天使小视频破解补丁
+
+Package: com.cydiaapp.xljspcrack
+Version: 1.0-1
+Architecture: iphoneos-arm
+Installed-Size: 580
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.xljspcrack_1.0-1_iphoneos-arm.deb
+Size: 185394
+MD5sum: 99534d40983fb9bc025a6c13689c175c
+SHA1: 467d305d7b2791584e5cd7ba240337246e29fa72
+SHA256: 8ff88e97dc534a4f44c18c5588b0c05b2aee285b37af9a1c8930d03650e48c0e
+Section: 应用插件‣
+Tag: cydia::commercial
+Author: 7Loopy
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: 小辣椒视频破解补丁
+
+Package: com.cydiaapp.zipmastercrack
+Version: 0.1.1
+Architecture: iphoneos-arm
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiaapp.zipmastercrack_0.1.1_iphoneos-arm.deb
+Size: 11412
+MD5sum: 029b2b8409943d502117c4ccb0fcd20c
+SHA1: 683ebf9f0afa88c4ea24ac851ed05b8fed537da5
+SHA256: 9ca87045ad37b0e6a0f9a1bc68f22a7d54b32fbea97fabdda1ddf90e9cfcc3ef
+Section: 应用插件‣
+Author: Netskao
+Icon: https://cydiavip.com/icon/sileo/sileo1.png
+Name: 解压专家破解
+
+Package: com.cydiabc.appsyncunified
+Version: 40.0
+Architecture: iphoneos-arm
+Maintainer: Karen
+Installed-Size: 384
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 12.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/com.cydiabc.appsyncunified_40.0_iphoneos-arm.deb
+Size: 33808
+MD5sum: e2318dd6f6b18c0f794279cf4552579c
+SHA1: 7a594dab823de4f21747643453fd6e9787b40463
+SHA256: c3d9479498d1c7c4f687f9cb6c31fed2ed24e60c53c58da95c135f00bf1c7d8e
+Section: 系统
+Description: 更新支持A12，可以愉快的安装App了
+A12: 1
+Author: Karen
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: AppSync Unified 关闭签名
+Sponsor: Karen
+
+Package: com.cydiabc.killx
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: KillX
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiabc.killx_0.1.2_iphoneos-arm.deb
+Size: 4996
+MD5sum: 2629c4a9c329941a6d25cac29c87210f
+SHA1: 0b15b6133e440a20015d2dffcaee3b6445946944
+SHA256: de702feef1512059f36a0972efb1a225578809e53d716d87da14abe961de4946
+Section: 系统
+Description: 开启后台切换界面下拉App窗口清理后台全部程序
+A12: 1
+Author: Cem K
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon2: 12.png
+Name: KillX后台清理
+Sponsor: KillX
+
+Package: com.cydiabc.nfcwriterx
+Version: 2.0-7k
+Architecture: iphoneos-arm
+Maintainer: com.cydiabc.nfcwriterx
+Depends: mobilesubstrate, net.limneos.libbulletin
+Filename: ./debs/com.cydiabc.nfcwriterx_2.0-7k_iphoneos-arm.deb
+Size: 620352
+MD5sum: 9fb6dca9e940efc0a91811748b4c25fd
+SHA1: 0c5c8a2355f0c6c6112dbcc959386ecc36fc62a3
+SHA256: 43d05b086a079eb724617148a013215522a1212d5f6acde5361c55444a64ed09
+Section: 系统
+Description: 解锁系统原生NFC功能
+ (如提示购买,请查看是否安装“limneosos”绕过验证依赖)
+A12: 0
+Author: Elias Limneos
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: NFCWriter XS破解版
+Sponsor: com.cydiabc.nfcwriterx
+
+Package: com.cydiabc.qingliui
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: 小苹果
+Filename: ./debs/com.cydiabc.qingliui_1.0_iphoneos-arm.deb
+Size: 890
+MD5sum: bdab24268c790564e011fe57d564d2a3
+SHA1: 233e650a4dde9f60d54b262e19e1d0b005338448
+SHA256: de87f9f5783984c1a56c5ab5775c687731bc5a3e41bad953badd6a1b97b214fd
+Section: 脚本
+Priority: standard
+Description: 清理系统UI缓存解决图标不出现
+A12: 0
+Author: 小苹果
+Icon: file:///Applications/Cydia.app/Sections/Scripting.png
+Icon2: 7.png
+Name: 清理系统桌面缓存【un专属】
+Sponsor: 小苹果
+
+Package: com.cydiabc.solovpn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiabc.solovpn_1.1_iphoneos-arm.deb
+Size: 15016
+MD5sum: d240bcff58c6fa8916ac982cb88aace3
+SHA1: 2e0b563d0c109392b815ee35701d6aa717017151
+SHA256: 3683fb5c70efd536275260be082ad809967fdffb348107cdf6cc5f765fe0c007
+Section: 插件
+Description: Solo VPN开启所有线路，去除中国地区使用限制，解锁更多线路
+A12: 1
+Author: Ai-小苹果
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: Solo VPN高级版
+Sponsor: Ai-小苹果™
+
+Package: com.cydiabc.storefeatures
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: aJBboCydia
+Installed-Size: 476
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Filename: ./debs/com.cydiabc.storefeatures_1.1_iphoneos-arm.deb
+Size: 53144
+MD5sum: e1c3a3771575e809d21efadb9acf4c71
+SHA1: 9394bce8717d83f38e55fa7730ee5aecac1986e2
+SHA256: cbff085f4ce922c848a90e4d3a14c5b0725675c93be6658029b3f9a0c6d1afad
+Section: 系统
+Description: Cydia添加更多功能
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+A12: 0
+Author: aJBboCydia
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 12.png
+Name: Cydia Store功能增强
+Sponsor: aJBboCydia
+
+Package: com.cydiabc.turbo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiabc.turbo_1.0_iphoneos-arm.deb
+Size: 9394
+MD5sum: 9d6e474c0d7ae7791235df493d89648d
+SHA1: 2962d5d6e287f8638f8ee115c42333dd1d28264a
+SHA256: c2ddaa28a5891fbf8575023c5bc59118591f470fdbf0940764cd01b6f071ba37
+Section: 插件
+Description: Turbo VPN开启所有线路，去除中国地区使用限制，本插件跟VPN小助手冲突，请卸载VPN小助手
+A12: 1
+Author: 小苹果
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: Turbo VPN高级版
+Sponsor: Ai-小苹果™
+
+Package: com.cydiabc.youkunoads
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiabc.youkunoads_0.1.1_iphoneos-arm.deb
+Size: 15796
+MD5sum: 7a6bd6dcf4ee2b4af27c59dc28b88e6d
+SHA1: 5fa498810fb399c0ada501abd546478f08dcd0d8
+SHA256: cde520d342d5c09edd1a90379133186fd1a8b0ac573620115876808480e719e1
+Section: 插件
+Description: 优酷去启动广告，去视频开头和暂停广告，去右下角悬浮广告，开启免VIP播放1080P画质
+A12: 1
+Author: Netskao & 小苹果
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Icon2: 1.png
+Name: 优酷增强插件完美版
+Sponsor: Ai-小苹果™
+
+Package: com.cydiami.afc2d-arm64
+Version: 1.0.3
+Architecture: iphoneos-arm
+Installed-Size: 672
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/com.cydiami.afc2d-arm64_1.0.3_iphoneos-arm.deb
+Size: 19680
+MD5sum: 4d2073141293e57aa56c60971e5b9431
+SHA1: e1babf195266f836ccb560b9f0db4e34c79f6748
+SHA256: 5fbbadffc6510148beffa5acf117502994d1cce21e30355b9afe690df5e6d132
+Section: 系统
+Tag: purpose::daemon, compatible::ios10, compatible::ios11
+Author: saurik, Cannathea <csupport@cannathea.com>
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: Apple File Conduit "2" (64位)
+
+Package: com.cydiami.bioprotectxs
+Version: 4.0-71k
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./debs/com.cydiami.bioprotectxs_4.0-71k_iphoneos-arm.deb
+Size: 489812
+MD5sum: 0541dd975f74b8512377444cabf74e98
+SHA1: 9b9b5076fc202e6ed6d308e9cc5ea0539a49bcb2
+SHA256: efd0d243abbd6c015292226aa47540e969d9799404326f7df779aeaf5b358109
+Section: 插件
+Author: Elias Limneos
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: BioProtect XS 指纹/面容加密
+
+Package: com.cydiami.cncntencenvpnmas
+Version: 1.3
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: A Sileo蜜蜂源™ <admin@cydiami.com>
+Installed-Size: 4350
+Pre-Depends: firmware (>=6.0)
+Filename: ./debs/com.cydiami.cncntencenvpnmas_1.3_iphoneos-arm.deb
+Size: 3452072
+MD5sum: 6b45ed72b814e00c3bcf69a051a252da
+SHA1: 926d34115d84180dc35cc5bff789114b4c3fdadd
+SHA256: ddb659113b4d06408e42c4cdc11a97a92066ffcbfd14145f658d2fcae6cf0284
+Section: 插件
+Priority: standard
+Tag: role::enduser
+Author: Master
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: VPN Master 科学上网
+Sponsor: A Sileo蜜蜂源™ <admin@cydiami.com>
+
+Package: com.cydiami.conditionalwifi4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Installed-Size: 128
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiami.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Size: 23072
+MD5sum: 47902ae4144c2ec350284cb653cd37b0
+SHA1: bb7a97953e37e0fdbb0448bedd65a6a4199c77b4
+SHA256: b2204f30574f7b7d6611056b2e2105aee36db7f5d80ded8dd2d72b683ed8ff5f
+Section: 插件
+Author: ATWiiks
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: ConditionalWiFi4 网络限制
+
+Package: com.cydiami.milkyway
+Version: 0.1.4beta
+Architecture: iphoneos-arm
+Maintainer: A Sileo蜜蜂源™ <admin@cydiami.com>
+Installed-Size: 208
+Depends: mobilesubstrate, jp.akusio.backgrounderaction11 | jp.akusio.backgrounderaction12
+Filename: ./debs/com.cydiami.milkyway_0.1.4beta_iphoneos-arm.deb
+Size: 28346
+MD5sum: 475c3fc1e614c8ca0c35b1ccb567ca9f
+SHA1: a5e435b2fb356a36799f152c0b0372310577000d
+SHA256: f41fc6190e757fbec750e42f531108fb8652a2986252edf734edc123c6a61507
+Section: 插件
+Author: akusio <akusio-report@neko2.net>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: MilkyWay 终极分屏
+Sponsor: A Sileo蜜蜂源™ <https://apt.cydiami.com>
+
+Package: com.cydiami.myriad
+Version: 0.2.6
+Architecture: iphoneos-arm
+Maintainer: A Sileo蜜蜂源™ <admin@cydiami.com>
+Depends: mobilesubstrate, com.repo.xarold.com.libsparkapplist | com.spark.libsparkapplist, preferenceloader, jp.ashikase.techsupport
+Conflicts: com.spark.splitview
+Filename: ./debs/com.cydiami.myriad_0.2.6_iphoneos-arm.deb
+Size: 1264926
+MD5sum: 9183d802f23b72c9cb62459e31843ca5
+SHA1: b4e225f13a91faf2726578b7c040c86a8f1c691c
+SHA256: 44b62f351d118e300bb75cfcd62e3d5f302a83036df7aa21dd230a2042f5834a
+Section: 插件
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: Myriad 炫酷分屏
+Sponsor: A Sileo蜜蜂源™ <https://apt.cydiami.com>
+
+Package: com.cydiami.nfcwriterx
+Version: 0.4-81k
+Architecture: iphoneos-arm
+Maintainer: iBox <admin@cydiami.com>
+Depends: mobilesubstrate, net.limneos.libbulletin
+Conflicts: net.limneos.nfcwriter, com.cydiami.nfcwriter
+Filename: ./debs/com.cydiami.nfcwriterx_0.4-81k_iphoneos-arm.deb
+Size: 500890
+MD5sum: a2c8aaa182cd3a45cceae790892d1e9e
+SHA1: 9ab533aa42da8dd3ab620dabd7bd6648f3f58cbb
+SHA256: ec54bea09c471e3accdd78f9f4596938e478dee60122f1356584759ea3e3e48e
+Section: 插件
+Author: Elias Limneos
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Name: NFCWriter X 激活原生NFC
+Sponsor: iBox <http://apt.cydiami.com/>
+
+Package: com.cydiami.renet
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: A Sileo蜜蜂源™ <admin@cydiami.com>
+Installed-Size: 5712
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.cydiami.renet_1.0_iphoneos-arm.deb
+Size: 1976058
+MD5sum: 0400760d9c0569aa3775e979d550231f
+SHA1: 024552a79ececdb32687708220cd3d05b0d01ac6
+SHA256: 6a0a1989bdc44c15de7c540d547d721dbd365c786118a303056698c5db68fb81
+Section: 插件
+Tag: purpose::extension, role::enduser, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Tinyapps
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: 连个锤子-一键修复联网
+Sponsor: A Sileo蜜蜂源™ <admin@cydiami.com>
+
+Package: com.cydiami.sneakycam
+Version: 0.0.6-1-5
+Architecture: iphoneos-arm
+Maintainer: A Sileo蜜蜂源™ <admin@cydiami.com>
+Installed-Size: 284
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiami.sneakycam_0.0.6-1-5_iphoneos-arm.deb
+Size: 78002
+MD5sum: 418c3f0c45a80b60b536e34749a93a62
+SHA1: d3c8417bdec43216053630052411e7bd3d913d22
+SHA256: 221ddf59e4025bbce4adc2bdf1e13c97d9d281adbc30adb8566434c13b6f5a94
+Section: 插件
+Author: Spark
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: SneakyCam 拍摄能手
+Sponsor: A Sileo蜜蜂源™ <admin@cydiami.com>
+
+Package: com.cydiami.u0sileo
+Version: 0.4b6-1
+Architecture: iphoneos-arm
+Installed-Size: 1828366
+Pre-Depends: curl, coreutils-bin, coreutils, uikittools, dpkg, libapt-pkg5.0, apt1.4
+Depends: firmware (>=11.0)
+Filename: ./debs/com.cydiami.u0sileo_0.4b6-1_iphoneos-arm.deb
+Size: 1827788
+MD5sum: 335270bc7ac631ce3970cb52c1e838d0
+SHA1: 538ba82d8976500cf7a71551c48c1eee4396ccb9
+SHA256: 55cfff9777145dee65184778a4ea11b39c07ce97dd7417abd453c2fe896ada6f
+Section: 工具
+Author: PixelOmer
+Icon: file:///Applications/Cydia.app/Sections/Utilities.png
+Name: Sileo商店 UncOver专用
+
+Package: com.cydiami.wechatforipad
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: A Sileo蜜蜂源™ <admin@cydiami.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.cydiami.wechatforipad_1.0.1_iphoneos-arm.deb
+Size: 4494
+MD5sum: c2ff8254c06341603ea0859f44bcb407
+SHA1: 06ba3d03774b9f1ee9d4ff4b209850f5e34a43bd
+SHA256: 78d3bd918c080091fc867152bcfbbd826d881cf7f7bb03fe9cef7d98572dc9f8
+Section: 微信
+Author: iBreak
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: 最新版微信iPad登录
+Sponsor: A Sileo蜜蜂源™ <admin@cydiami.com>
+
+Package: com.cydiami.wechattimingindicator
+Version: 0.1.1-1
+Architecture: iphoneos-arm
+Installed-Size: 1312
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs/com.cydiami.wechattimingindicator_0.1.1-1_iphoneos-arm.deb
+Size: 334320
+MD5sum: 57047e0e1c483d06d9be5e98c66209c8
+SHA1: f245039ccf64841d26ffd5a1f21ff3e761d7179f
+SHA256: 6906e8d9b3a507bd0b2717abb59f90173c1c74c1eb66bf0beb929abe9361709f
+Section: 微信
+Priority: optional
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Author: balabala <789789fei@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: 微信定时发送消息
+
+Package: com.hackyouriphone.appcake6
+Version: 6.1.2
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Pre-Depends: firmware (>= 9.0)
+Depends: appsync
+Filename: ./debs/com.hackyouriphone.appcake6_6.1.2_iphoneos-arm.deb
+Size: 20821746
+MD5sum: c189ed727ad6c5ff69c29b50ba5f0907
+SHA1: 264b9f65e1f6e33aeabbd631daa50248f1a9ff20
+SHA256: 0a588f9b0a0dba89e72fb4ed54e4df4cb3135f5b43affb27799c2968058d349a
+Section: HYI - Applications
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=appcake6
+Description: The new AppCake 6! For iOS 11 & 12 Jailbreak.
+Author: hotsjf <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=appcake6
+Name: AppCake
+
+Package: com.hackyouriphone.icleanerpro
+Version: 7.7.5
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.hackyouriphone.icleanerpro_7.7.5_iphoneos-arm.deb
+Size: 9921318
+MD5sum: a2a310ec82549649544f1678706b32a8
+SHA1: 203b0850bac4982aeedcc188e8dba2032d54d8b6
+SHA256: fec86512cf1d279c45490d2258e827070b9dd0e94272d777017b2fa014aca8d9
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icleanerpro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=icleanerpro
+Name: iCleaner Pro
+Sildeodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=icleanerpro
+
+Package: com.hk.huanggua
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.hk.huanggua_1.0_iphoneos-arm.deb
+Size: 39322252
+MD5sum: ac2031189b748d19680786c4452a9a9d
+SHA1: b788486828de877e1b81659e574e17d49a4727e3
+SHA256: da1df741a26f25aac19ee0c0f34617b04cb1fd98dcdb083149b56542e05edaff
+Section: 嗨-其他
+Author: 好心人士
+Name: 一根黄瓜
+
+Package: com.hk.pulandres.safestdn
+Version: 1.39
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 850
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11), jp.ashikase.libpackageinfo
+Conflicts: com.pulandres.safeshutdown
+Filename: ./debs/com.hk.pulandres.safestdn_1.39_iphoneos-arm.deb
+Size: 366318
+MD5sum: 9cc6bdc91b5ff5db23b7a4cba98996d8
+SHA1: 9a8a9580a9950e252cb2d50b8aab7de42fd98c0f
+SHA256: ab2e1b873aae208fb7afa0743fbacaa92dc79b5db613bdc14e1629c6b2df8f61
+Section: 嗨-破解
+Priority: optional
+Author: Kurrt <dev@kurrt.com>
+Name: SafeShutdown  [P佬破解版]
+
+Package: com.ijinshan.beijing.kbatterydoctor
+Version: 6.0.20426.454
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 23122
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.ijinshan.beijing.kbatterydoctor_6.0.20426.454_iphoneos-arm.deb
+Size: 16043756
+MD5sum: 2ad6082414d03968dab03ae7b48ac62b
+SHA1: 9fe42e630570b04ca6a6e18874413cfbeded64c9
+SHA256: 7cf1bde59c6ab3d78734acb14c77ca3e300a4cf72d9be1e029e059a2efa41399
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=kbatterydoctorDp
+Description: 全球超过5000万用户热爱金山电池医生!10多个国家地区免费总榜TOP10!30多个国家地区免费工具榜TOP10!发布以来遥遥领先位居电池管理软件首位,是您唯一的选择。
+Author: KS Mobile <app@ijinshan.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=kbatterydoctorDp
+Dev: ksmobile
+Icon: file:///Applications/kBatteryDoctor.app/icon.png
+Name: 金山电池医生—手机省电卫士&内存管家
+
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0.7~beta3
+Architecture: iphoneos-arm
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.7~beta3_iphoneos-arm.deb
+Size: 37876
+MD5sum: ace763f5b427bf23eebf8dcf8dee8971
+SHA1: b0f9cb759838669b8878730b11972a3916873c32
+SHA256: fa851437de28541ac23af03971cff562608740570c80dc9724cc70656791b0b7
+Section: 插件依赖
+Author: 公众号：lovewxhbts
+Icon: https://apt.wxhbts.com/icon/%E6%8F%92%E4%BB%B6%E4%BE%9D%E8%B5%96.png
+Name: RocketBootstrap
+
+Package: com.spark.libsparkapplist
+Version: 1.0.3
+Architecture: iphoneos-arm
+Installed-Size: 596
+Filename: ./debs/com.spark.libsparkapplist_1.0.3_iphoneos-arm.deb
+Size: 31916
+MD5sum: 576442dca2ff88c761b3956a6200fd3e
+SHA1: 19aade749de291163f2c176603321c8bbf911cc0
+SHA256: 09a36c60c85897dddcc59972c4e7fca9768ab127826ab43a37b2239dc035b995
+Section: 插件依赖
+Tag: role::developer
+Author: Spark
+Icon: https://apt.wxhbts.com/icon/%E6%8F%92%E4%BB%B6%E4%BE%9D%E8%B5%96.png
+Name: libSparkAppList
+
 Package: com.supermamon.codetidy
 Version: 0.0.1-10
 Architecture: iphoneos-arm
@@ -34,4 +1404,446 @@ Description: Hide items on the Passcode Screen.
 Author: Raymond Velasquez <at.supermamon@gmail.com>
 Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.codetidy
 Name: CodeTidy
+
+Package: com.tongbu.appsyncunified
+Version: 5.8
+Architecture: iphoneos-arm
+Maintainer: Karen Tsai (angelXwind)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: ./debs/com.tongbu.appsyncunified_5.8_iphoneos-arm.deb
+Size: 30088
+MD5sum: eb4b6895fbb1a41cfffd29c7a8cd3615
+SHA1: c3f9906cd1d5216490a3df035c14fe909742f4ef
+SHA256: e6c39c34cbc864648e11c54b48832f8469a3e0dee15212e58847b7ae449ad46b
+Section: [iOS8 & iOS9基础补丁]
+Description: Unified AppSync dynamic library for iOS 5, 6, 7 and 8. Supports arm64.
+Author: Linus Yang, Karen Tsai
+Name: AppSync Unified（ipa破解补丁）
+
+Package: com.wifizhushou.wifihelper
+Version: 1.1-0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 12220
+Depends: firmware (>= 4.0), mobilesubstrate
+Filename: ./debs/com.wifizhushou.wifihelper_1.1-0_iphoneos-arm.deb
+Size: 4521128
+MD5sum: 711b8fce59807e48a569594a5675d6fc
+SHA1: 8838d3e7a0d6678bd218333733de5aebe817e21f
+SHA256: c2ad7db9b8540df4edb66c78f309d48351a26e7a0be12a5108773e585b76b6cc
+Section: Networking
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifihelperDp
+Description: wifi免费共享软件，可无需密码直接连接!
+Author: wifizhushou <wifizhushou@163.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifihelperDp
+Dev: wifizhushou
+Icon: file:///Applications/wifihelper.app/icon.png
+Name: WiFi助手
+
+Package: com.wxhb
+Version: 3.0
+Architecture: iphoneos-arm
+Essential: yes
+Filename: ./debs/com.wxhb_3.0_iphoneos-arm.deb
+Size: 41612
+MD5sum: 2f9986d21eec0d8b4f15ce7a2197c8e0
+SHA1: cd5d43aa97efe126d5cd87bab38299673b4b8018
+SHA256: e4bd265ea6b2f805651cbe8ce5bcc586881684eae03c1ade3e9e389433620ae3
+Section: 常用插件
+Author: 公众号：lovewxhbts
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: 多米诺骨牌源™分类图标
+
+Package: com.wxhbts.MyTweaK
+Version: 1.3-4
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.wxhbts.mytweak_1.3-4_iphoneos-arm.deb
+Size: 148216
+MD5sum: 9f4d58e80c8b27575268a8725cbaad15
+SHA1: eb7c0ac269a104e3e4b56dcbfee0bda1ec712f6b
+SHA256: 00a22ed6ae9f6e89d3176745f0d8c04c013dd904f702270fe375d2f19e471667
+Section: 常用插件
+Priority: optional
+Author: xybp888 <8657156@qq.com>
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: 电话助手
+
+Package: com.wxhbts.ctpjcrack
+Version: 0.1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.wxhbts.ctpjcrack_0.1.1_iphoneos-arm.deb
+Size: 6714
+MD5sum: 91166e08cd380926d6cea35d0e733cfb
+SHA1: b2618b81a18ec67cdf44e0ae515e9acd6c128d75
+SHA256: c5095df8cb35f4dd6e47a49547c4290929c76f16bd0dc7150ff0bf0388074833
+Section: 常用插件
+Author: Netskao
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: 长图拼接破解
+
+Package: com.wxhbts.qqmusicpojey
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.wxhbts.qqmusicpojey_0.1-1_iphoneos-arm.deb
+Size: 24712
+MD5sum: 6fad1585700960dfe6a38393e9dc6189
+SHA1: 2b584f32f56aee85af9884a4a6e96f6fe36d203b
+SHA256: af337f713d11035a3a580ecd4aa13f8637ec3ac6e43c3b321590943e42fa9adc
+Section: 常用插件
+Author: TouGBao
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: QQ音乐破解+
+
+Package: com.wxhbts.renet
+Version: 1.0
+Architecture: iphoneos-arm
+Installed-Size: 5712
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.wxhbts.renet_1.0_iphoneos-arm.deb
+Size: 1976136
+MD5sum: faef1ccff3ca21390a0f93e81f307aef
+SHA1: b52179aaab02fb7238f1592222bfce8c6a94ab35
+SHA256: fc2903a361bfc1cb0fdb4056692f838bb151631963972030797f3ec92cdb9dc0
+Section: 常用插件
+Author: Tinyapps
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: 连个锤子-越狱联网一键修复
+
+Package: com.wxhbts.solovpncrack
+Version: 1.0
+Architecture: iphoneos-arm
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.wxhbts.solovpncrack_1.0_iphoneos-arm.deb
+Size: 9180
+MD5sum: 1ab5f2ddef34ad263241663ec75a740d
+SHA1: cc25019f18b34e571a756a0abf801316d36e8772
+SHA256: 00a9519a78837b970af57cfd81a9fdfb69cca41cbdde0a4fd44551fdce098375
+Section: 常用插件
+Author: 7Loopy
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: SoloVPN 破解
+
+Package: com.wxhbts.wechatnorevokemsg
+Version: 1.2
+Architecture: iphoneos-arm
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wxhbts.wechatnorevokemsg_1.2_iphoneos-arm.deb
+Size: 116310
+MD5sum: af1cdf55cd86195856cbe10b7cdadfc3
+SHA1: 46fa6ea8ce9465f6a98d74df6bea853ed1ebb6d7
+SHA256: a73814fc5f973239d4c8f9970045e5d99aa4ca9db86faa984a7c66858a6f94dc
+Section: 微信插件
+Author: Netskao
+Icon: https://apt.wxhbts.com/icon/%E5%BE%AE%E4%BF%A1%E6%8F%92%E4%BB%B6.png
+Name: 微信消息防撤回带撤回提示
+
+Package: com.wxhbts.wxyyzf
+Version: 3.1
+Architecture: iphoneos-arm
+Installed-Size: 4100
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wxhbts.wxyyzf_3.1_iphoneos-arm.deb
+Size: 4379632
+MD5sum: 20e2d56269c2ba652663b9fe216a2114
+SHA1: 5bd775918e4f8cfc00f1e8b1a89dcd6ce81824b2
+SHA256: 71fac08a1f2e1852b884d7a4bf3e26f1f50ad80b9036d04a6185f112755be701
+Section: 微信插件
+Priority: optional
+Author: 公众号：aptwxhbts
+Name: 微信语音转发
+
+Package: com.wxhbts.yy.xiaoyiba
+Version: 7.0.5
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.wxhbts.yy.xiaoyiba_7.0.5_iphoneos-arm.deb
+Size: 5880826
+MD5sum: 754c1686521823037e9b61aa1b438c3a
+SHA1: 6afcbcc89fdb5f22fce17afe14b90c9442f76888
+SHA256: 38cbef42bc17ea57e60b2c79e391c8b39181621c217ce7703e239c9320b4c29d
+Section: 微信插件
+Priority: standard
+Author: 1+1
+Icon: https://apt.wxhbts.com/icon/%E5%BE%AE%E4%BF%A1%E6%8F%92%E4%BB%B6.png
+Name: 微信语音转发【最新版】
+
+Package: com.wxhbts.zipmastercrack
+Version: 0.1.1
+Architecture: iphoneos-arm
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./debs/com.wxhbts.zipmastercrack_0.1.1_iphoneos-arm.deb
+Size: 6958
+MD5sum: 3f7c51510f6e1c33c1ec9e1bc4fb4d49
+SHA1: b688df44fa51929a1f15352d8c3ed312053e1505
+SHA256: 9978495cf033d30b2f3e7eb2809671d9a605d70e30d0beb43c33e7187891538f
+Section: 常用插件
+Author: Netskao
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: 解压专家破解
+
+Package: com.xcocoa.5dwifi
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 3712
+Depends: firmware (>= 4.0)
+Filename: ./debs/com.xcocoa.5dwifi_1.9_iphoneos-arm.deb
+Size: 1819974
+MD5sum: e512e2fc989818d1387aa3063a6077b6
+SHA1: 4316578c59441875e9dc07dd29c6c72d98705244
+SHA256: 5e5267cced41e04abdabfa4390de43fa02fec6b72afc456d7ca76c2acc2e2186
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=5dwifiDp
+Description: Wi-Fi信号搜索增强，Wi-Fi密码破解(仅用于研究，不得用于蹭网)，网速测试，一键VPN等华丽功能！
+Author: ixfly <19098860@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=5dwifiDp
+Dev: xcocoa
+Icon: file:///Applications/5dWifi.app/Icon.png
+Name: 5dWifi
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: curl
+Version: 7.65.0-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1896
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libnghttp2-14, libssh2, libssl1.0
+Filename: ./debs/curl_7.65.0-1_iphoneos-arm.deb
+Size: 322348
+MD5sum: 5b755c7b00631efaa87b157048f29b66
+SHA1: 1f3b280ea398194680c63fe884ef0c1774053d66
+SHA256: 5e89a61fc6cb427cff1d34e5ce2edfbb129ab086dcc5471b2ddf7c329dceaaac
+Section: Networking
+Priority: standard
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
+Package: jp.akusio.backgrounderaction11
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: A Sileo蜜蜂源™ <admin@cydiami.com>
+Installed-Size: 72
+Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
+Filename: ./debs/jp.akusio.backgrounderaction11_0.0.8_iphoneos-arm.deb
+Size: 10292
+MD5sum: 6739f9a334d781bca4c7888f2fef8921
+SHA1: 4df91a52ec1f1a948515e27e7d623ef016b63a91
+SHA256: e90ed772892b20b91065c4ab7b204d0dd74493a6edc3ab1aa4400e2448b0af79
+Section: 开发
+Author: akusio <akusio-report@neko2.net>
+Icon: file:///Applications/Cydia.app/Sections/Development.png
+Name: Backgrounder Action
+Sponsor: A Sileo蜜蜂源™ <admin@cydiami.com>
+
+Package: jp.ashikase.libpackageinfo
+Version: 1.1.0.1-1
+Architecture: iphoneos-arm
+Installed-Size: 720
+Pre-Depends: firmware (>=3.0)
+Filename: ./debs/jp.ashikase.libpackageinfo_1.1.0.1-1_iphoneos-arm.deb
+Size: 243508
+MD5sum: 4eebfa6031448f93c48708e9c861fc4c
+SHA1: 1892060c41d19cebc4d78ac7f0668d029eb83a8e
+SHA256: 8d450bd8f5c40a70b633d1c46c18e1970f6e304e4e08778d4535d89277d0fc6f
+Section: 插件依赖
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Icon: https://apt.wxhbts.com/icon/%E6%8F%92%E4%BB%B6%E4%BE%9D%E8%B5%96.png
+Name: libpackageinfo
+
+Package: jp.ashikase.techsupport
+Version: 1.5.0.1-1
+Architecture: iphoneos-arm
+Installed-Size: 456
+Pre-Depends: firmware (>=3.0)
+Depends: jp.ashikase.libpackageinfo
+Filename: ./debs/jp.ashikase.techsupport_1.5.0.1-1_iphoneos-arm.deb
+Size: 114834
+MD5sum: 10c1689dc35350b4c050a5017178e9fd
+SHA1: 052765563ba951b37a964312bc1e95d1dedcb75d
+SHA256: 08c31e4fefb4bcde32a935577751285feece330be7c13a9cbc733b157a6883da
+Section: 插件依赖
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Name: TechSupport Framework
+
+Package: libactivator
+Version: 1.9.13~beta5
+Architecture: iphoneos-arm
+Installed-Size: 4228
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~beta5), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3)
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Filename: ./debs/libactivator_1.9.13~beta5_iphoneos-arm.deb
+Size: 706846
+MD5sum: 9ebfe16780c2eddf5b3489b94eac37f5
+SHA1: f33070f3b2f66c9918819496afeb665ccf45bee9
+SHA256: 946980714a14ce9be7e1b197b3bf9235fe5b2d3c7e675c0e14e6116b360b8b9c
+Section: 必备插件
+Priority: optional
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Icon: https://apt.wxhbts.com/icon/%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.png
+Name: Activator
+
+Package: libnghttp2-14
+Version: 1.38.0-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 400
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: nghttp2, libnghttp2
+Replaces: nghttp2, libnghttp2
+Provides: nghttp2, libnghttp2
+Filename: ./debs/libnghttp2-14_1.38.0-1_iphoneos-arm.deb
+Size: 53574
+MD5sum: 5cc7cbfd6402934f61454fa47f7f1fe9
+SHA1: 4dc4afabbf7823b38ca34c6ecc782ea165bd046c
+SHA256: d030b9359202c76bd74b218dd7219c5fbf524c41fffa5e1dafce6c03b56c8a29
+Section: Development
+Priority: standard
+Homepage: https://nghttp2.org/
+Description: library implementing HTTP/2 protocol (shared library)
+
+Package: libssh2
+Version: 1.8.0-2
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 608
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.0
+Filename: ./debs/libssh2_1.8.0-2_iphoneos-arm.deb
+Size: 77038
+MD5sum: 71bff4c1e2d48e991ffbc0d3845e8ff0
+SHA1: ee49bd64503c2fde7e8a88a8b7090fb24a563f07
+SHA256: cb79579dbad1522fc3960bd52f0e7e541d88b48e795aa8e2c69c345bbe2399e3
+Section: Development
+Priority: optional
+Homepage: https://www.libssh2.org/
+Description: a client-side C library implementing the SSH2 protocol
+
+Package: me.nepeta.libcolorpicker
+Version: 1.6.2-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 629
+Depends: firmware (>= 9.0)
+Conflicts: org.thebigboss.libcolorpicker
+Replaces: org.thebigboss.libcolorpicker
+Provides: org.thebigboss.libcolorpicker, org.thebigboss.libcolorpicker (=1.6.1)
+Filename: ./debs/me.nepeta.libcolorpicker_1.6.2-3_iphoneos-arm.deb
+Size: 104446
+MD5sum: cd19e8646bd484973848e6a8e313acf3
+SHA1: d575f1311d6bf4cc71f6d192d7fe477208ab48ae
+SHA256: df358744da38d7daa99fe25c2bf51ff483e7bb9817ba5fa08a2090f51a77a46b
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickernepetaDp
+Description: libcolorpicker with arm64e (A12) support
+Tag: purpose::library, role::developer, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, cydia::obsolete
+Author: Nepeta <Ominousness@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickernepetaDp
+Dev: pixelfiredev
+Name: libcolorpicker-nepeta
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: net.limneos.libbulletin
+Version: 0.1-145
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 251
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/net.limneos.libbulletin_0.1-145_iphoneos-arm.deb
+Size: 24338
+MD5sum: 426d80650d06b54df27b11c9bb979945
+SHA1: 63178d2f19314216858ecbe68bd1f28b0f261d4d
+SHA256: 4cd902f84a06dcafc73300477356d240f84c2e73cde5ce050289dccc8ae5978c
+Section: Development
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbulletinDp
+Description: Simple library that displays bulletins
+Tag: cydia::obsolete, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libbulletinDp
+Dev: limneos
+Name: libbulletin
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: preferenceloader
+Version: 2.2.4~beta1
+Architecture: iphoneos-arm
+Installed-Size: 532
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader_2.2.4~beta1_iphoneos-arm.deb
+Size: 33780
+MD5sum: f21aded1be8675130dcbcd5e2246aae8
+SHA1: 2e5041e9c336703c1f29504e893774883b679a66
+SHA256: f4fdc08b05262da3ecb320fa89551de34f75ffb645f68049d4526df9652159d6
+Section: 插件依赖
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Icon: https://apt.wxhbts.com/icon/%E6%8F%92%E4%BB%B6%E4%BE%9D%E8%B5%96.png
+Name: preferenceloader
+
+Package: sqlite3
+Version: 3.24.0-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 4304
+Pre-Depends: dpkg (>= 1.14.25-8)
+Replaces: sqlite3 (<= 3.5.9-11)
+Filename: ./debs/sqlite3_3.24.0-1_iphoneos-arm.deb
+Size: 700486
+MD5sum: 26edebeeed5c09a6f1565eaf0a39786d
+SHA1: ba4acda9c0c8c80a1b9fbb7845ca598b066a173b
+SHA256: f450f7bc579fc19c578f0be6400050d8c01594a5e69269914f4b720e0f2834a5
+Section: Data_Storage
+Priority: standard
+Description: embedded database used by iPhoneOS
+Name: SQLite 3.x
+
+Package: ws.hbang.common
+Version: 1.13.1-2
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 2696
+Depends: mobilesubstrate, preferenceloader, firmware (<< 12.0) | preferenceloader (>> 2.2.3), jp.ashikase.techsupport, com.rpetrich.rocketbootstrap
+Filename: ./debs/ws.hbang.common_1.13.1-2_iphoneos-arm.deb
+Size: 174522
+MD5sum: 8b4447792ec4e8c7f56e95e95ca48739
+SHA1: c56f3788176d6d2ce561159f1f6450cecb4d3d6e
+SHA256: e8046c17a5f156f2b10b4f82b9d794c3a3a7ff25b0db8abf1c12002b4a9afbd6
+Section: Development
+Description: Support library for tweaks
+Tag: purpose::extension, compatible::ios5, compatible::ios6, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://repo.chariz.io/package/ws.hbang.common/
+Dev: hbang
+Icon: file:///Library/PreferenceBundles/Cephei.bundle/icon@2x.png
+Name: Cephei
+Support: https://hashbang.productions/support/
+
+Package: xyz.willy.zebra
+Version: 1.0~beta20-5+debug
+Architecture: iphoneos-arm
+Maintainer: Wilson Styres & Acreson
+Installed-Size: 18224
+Depends: dpkg, uikittools
+Filename: ./debs/xyz.willy.zebra_1.0~beta20-5+debug_iphoneos-arm.deb
+Size: 6182198
+MD5sum: d06edbd5fd8379ff6abe6c2ad62fc97f
+SHA1: ef9831fa17053393a19b07bd9709e98ebd909a30
+SHA256: 1b5022675c2d6653dcd2fb1425e15117cc6a58a967aa1b9610119baf922335e2
+Section: Acreson-安装包(Packages)
+Description: 一个包管理器支持IOS8-13
+Author: Wilson Styres & Acreson
+Icon: file:///Applications/Zebra.app/darkZebraSkin@2x.png
+Name: Zebra（beta）汉化优化
+Sileodepiction: https://crazyc.top/ms/msxq/zebra.json
 

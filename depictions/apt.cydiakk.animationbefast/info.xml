@@ -1,0 +1,23 @@
+<package>
+	<id>apt.cydiakk.animationbefast</id>
+	<name>AnimationsBeFast 系统UI加速</name>
+	<version>1.4.7k</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>AnimationsBeFast 系统UI加速</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

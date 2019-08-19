@@ -1,0 +1,23 @@
+<package>
+	<id>com.cydiami.nfcwriterx</id>
+	<name>NFCWriter X 激活原生NFC</name>
+	<version>0.4-81k</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>NFCWriter X 激活原生NFC</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,23 @@
+<package>
+	<id>com.tongbu.appsyncunified</id>
+	<name>AppSync Unified（ipa破解补丁）</name>
+	<version>5.8</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>AppSync Unified（ipa破解补丁）</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>

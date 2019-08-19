@@ -1,0 +1,140 @@
+<repo>
+	<footerLinksComment>
+		The links indicated below will appear at the bottom of every depiction.
+	</footerLinksComment>
+	<footerlinks>
+		<link>
+			<name>@YJL on Twitter</name>
+			<url>https://twitter.com/yujianlongyjl</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>我在git的开源项目!</name>
+			<url>https://github.com/yjlfish</url>
+			<iconclass>glyphicon glyphicon-console</iconclass>
+		</link>
+		<link>
+			<name>通过Paypal捐献</name>
+			<url>https://www.paypal.me/yujianlong</url>
+			<iconclass>glyphicon glyphicon-heart</iconclass>
+		</link>
+	</footerlinks>
+	<packagesComment>
+		The bundleIDs listed below are used to load the names and description of tweaks on the repo main page.
+	</packagesComment>
+	<packages>
+		
+    <package>com.supermamon.codetidy</package>
+    <package>com.cydiaapp.1024a</package>
+
+    <package>acreson.app.395</package>
+<package>acreson.app.bikagg</package>
+<package>acreson.app.newt66y</package>
+<package>acreson.app.panda</package>
+<package>applist</package>
+<package>apt-key</package>
+<package>apt.cydiaba.ntspeed</package>
+<package>apt.cydiakk.Recorderxss</package>
+<package>apt.cydiakk.Shadowrocket</package>
+<package>apt.cydiakk.WeChatHookPro</package>
+<package>apt.cydiakk.animationbefast</package>
+<package>apt.cydiakk.april</package>
+<package>apt.cydiakk.boostedwifi</package>
+<package>apt.cydiakk.catchathief</package>
+<package>apt.cydiakk.cydiaquick</package>
+<package>apt.cydiakk.eclipse12</package>
+<package>apt.cydiakk.home</package>
+<package>apt.cydiakk.midevice</package>
+<package>apt.cydiakk.netfix</package>
+<package>apt.cydiakk.nfcwriterxs</package>
+<package>apt.cydiakk.safeshutdown</package>
+<package>apt.cydiakk.shadow</package>
+<package>apt.cydiakk.stealthsnap2</package>
+<package>apt.cydiakk.storeswitcher2</package>
+<package>apt.cydiakk.tetherme8</package>
+<package>apt.cydiakk.unsub</package>
+<package>cn.crak.HYWIFI</package>
+<package>cn.tinyapps.renet</package>
+<package>com.a3tweaks.flipswitch</package>
+<package>com.abcydia.Flex3beta</package>
+<package>com.abcydia.audiorecorderxs</package>
+<package>com.banma-inc.wifisw</package>
+<package>com.chpwn.iconsupport</package>
+<package>com.crak.hgsp</package>
+<package>com.crak.huanggua116</package>
+<package>com.crak.huangguashipinhook</package>
+<package>com.crak.pandahelpervip</package>
+<package>com.creaturesurvive.libcscolorpicker</package>
+<package>com.cydiaapp.+vpncrack</package>
+<package>com.cydiaapp.1024a</package>
+<package>com.cydiaapp.bobosp</package>
+<package>com.cydiaapp.dcjpj</package>
+<package>com.cydiaapp.dfhpj</package>
+<package>com.cydiaapp.newytsp</package>
+<package>com.cydiaapp.safariplus</package>
+<package>com.cydiaapp.scdzs</package>
+<package>com.cydiaapp.solovpncrack</package>
+<package>com.cydiaapp.starvpn</package>
+<package>com.cydiaapp.svipcydia.avhelp</package>
+<package>com.cydiaapp.svipcydia.huli.list</package>
+<package>com.cydiaapp.svipcydia.papab</package>
+<package>com.cydiaapp.tsxspvip</package>
+<package>com.cydiaapp.xljspcrack</package>
+<package>com.cydiaapp.zipmastercrack</package>
+<package>com.cydiabc.appsyncunified</package>
+<package>com.cydiabc.killx</package>
+<package>com.cydiabc.nfcwriterx</package>
+<package>com.cydiabc.qingliui</package>
+<package>com.cydiabc.solovpn</package>
+<package>com.cydiabc.storefeatures</package>
+<package>com.cydiabc.turbo</package>
+<package>com.cydiabc.youkunoads</package>
+<package>com.cydiami.afc2d-arm64</package>
+<package>com.cydiami.bioprotectxs</package>
+<package>com.cydiami.cncntencenvpnmas</package>
+<package>com.cydiami.conditionalwifi4</package>
+<package>com.cydiami.milkyway</package>
+<package>com.cydiami.myriad</package>
+<package>com.cydiami.nfcwriterx</package>
+<package>com.cydiami.renet</package>
+<package>com.cydiami.sneakycam</package>
+<package>com.cydiami.u0sileo</package>
+<package>com.cydiami.wechatforipad</package>
+<package>com.cydiami.wechattimingindicator</package>
+<package>com.hackyouriphone.appcake6</package>
+<package>com.hackyouriphone.icleanerpro</package>
+<package>com.hk.huanggua</package>
+<package>com.hk.pulandres.safestdn</package>
+<package>com.ijinshan.beijing.kbatterydoctor</package>
+<package>com.rpetrich.rocketbootstrap</package>
+<package>com.spark.libsparkapplist</package>
+<package>com.supermamon.codetidy</package>
+<package>com.tongbu.appsyncunified</package>
+<package>com.wifizhushou.wifihelper</package>
+<package>com.wxhb</package>
+<package>com.wxhbts.MyTweaK</package>
+<package>com.wxhbts.ctpjcrack</package>
+<package>com.wxhbts.qqmusicpojey</package>
+<package>com.wxhbts.renet</package>
+<package>com.wxhbts.solovpncrack</package>
+<package>com.wxhbts.wechatnorevokemsg</package>
+<package>com.wxhbts.wxyyzf</package>
+<package>com.wxhbts.yy.xiaoyiba</package>
+<package>com.wxhbts.zipmastercrack</package>
+<package>com.xcocoa.5dwifi</package>
+<package>curl</package>
+<package>jp.akusio.backgrounderaction11</package>
+<package>jp.ashikase.libpackageinfo</package>
+<package>jp.ashikase.techsupport</package>
+<package>libactivator</package>
+<package>libnghttp2-14</package>
+<package>libssh2</package>
+<package>me.nepeta.libcolorpicker</package>
+<package>net.limneos.libbulletin</package>
+<package>preferenceloader</package>
+<package>sqlite3</package>
+<package>ws.hbang.common</package>
+<package>xyz.willy.zebra</package>
+	
+	</packages>
+</repo>

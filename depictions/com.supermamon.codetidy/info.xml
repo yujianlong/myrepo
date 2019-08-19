@@ -1,25 +1,23 @@
-<?xml version="1.0" ?>
 <package>
 	<id>com.supermamon.codetidy</id>
 	<name>CodeTidy</name>
 	<version>0.0.1-10</version>
 	<compatibility>
 		<firmware>
-			<min>9.0</min>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description><![CDATA[
-Hide items on the Passcode Screen.<br>
- Request by /u/ajjasper792
-		]]></description>
+		<description>CodeTidy</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>初始化</change>
 	</changelog>
-	<links />
+	<links></links>
 </package>

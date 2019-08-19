@@ -1,6 +1,6 @@
 <package>
 	<id>com.cydiaapp.1024a</id>
-	<name>小草</name>
+	<name>1024客户端</name>
 	<version>3.2</version>
 	<compatibility>
 		<firmware>
@@ -13,11 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>小草</description>
+		<description>1024客户端</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>初始化</change>
 	</changelog>
 	<links></links>
 </package>

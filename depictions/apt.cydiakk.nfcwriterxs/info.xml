@@ -1,0 +1,23 @@
+<package>
+	<id>apt.cydiakk.nfcwriterxs</id>
+	<name>NFCWriter XS 激活原生NFC</name>
+	<version>2.0-7k</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>NFCWriter XS 激活原生NFC</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>初始化</change>
+	</changelog>
+	<links></links>
+</package>
