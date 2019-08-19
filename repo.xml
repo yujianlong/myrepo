@@ -4,18 +4,18 @@
 	</footerLinksComment>
 	<footerlinks>
 		<link>
-			<name>@supermamon on Twitter</name>
-			<url>https://twitter.com/supermamon</url>
+			<name>@YJL on Twitter</name>
+			<url>https://twitter.com/yujianlongyjl</url>
 			<iconclass>glyphicon glyphicon-user</iconclass>
 		</link>
 		<link>
-			<name>See my open-sourced projects on Github!</name>
-			<url>https://github.com/supermamon</url>
+			<name>我在git的开源项目!</name>
+			<url>https://github.com/yjlfish</url>
 			<iconclass>glyphicon glyphicon-console</iconclass>
 		</link>
 		<link>
-			<name>Contribute via Paypal</name>
-			<url>https://paypal.me/monvelasquez</url>
+			<name>通过Paypal捐献</name>
+			<url>https://www.paypal.me/yujianlong</url>
 			<iconclass>glyphicon glyphicon-heart</iconclass>
 		</link>
 	</footerlinks>
