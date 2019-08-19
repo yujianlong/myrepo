@@ -1,0 +1,31 @@
+<repo>
+	<footerLinksComment>
+		The links indicated below will appear at the bottom of every depiction.
+	</footerLinksComment>
+	<footerlinks>
+		<link>
+			<name>@supermamon on Twitter</name>
+			<url>https://twitter.com/supermamon</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>See my open-sourced projects on Github!</name>
+			<url>https://github.com/supermamon</url>
+			<iconclass>glyphicon glyphicon-console</iconclass>
+		</link>
+		<link>
+			<name>Contribute via Paypal</name>
+			<url>https://paypal.me/monvelasquez</url>
+			<iconclass>glyphicon glyphicon-heart</iconclass>
+		</link>
+	</footerlinks>
+	<packagesComment>
+		The bundleIDs listed below are used to load the names and description of tweaks on the repo main page.
+	</packagesComment>
+	<packages>
+		
+    <package>com.supermamon.codetidy</package>
+    <package>com.cydiaapp.1024a</package>
+	
+	</packages>
+</repo>

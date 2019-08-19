@@ -1,0 +1,37 @@
+Package: com.cydiaapp.1024a
+Version: 3.2
+Architecture: iphoneos-arm
+Essential: no
+Installed-Size: 71531
+Pre-Depends: firmware (>=7.0)
+Depends: firmware (>= 7.0), mobilesubstrate
+Filename: ./debs/com.cydiaapp.1024a_3.2_iphoneos-arm.deb
+Size: 415988
+MD5sum: 0f7c2a7dc8938b1d34717c89ef5a63e3
+SHA1: 442b6b4585279006c78376cf9f5f091d546debdc
+SHA256: f5bfaca455a618d9b1d4dada9b2f5eb6303c2f80aa8cdb9b79e92c7285b85f68
+Section: APP应用‣
+Priority: standard
+Tag: role::enduser
+Author: 1024
+Icon: https://cydiavip.com/icon/sileo/sileo2.png
+Name: 1024客户端
+
+Package: com.supermamon.codetidy
+Version: 0.0.1-10
+Architecture: iphoneos-arm
+Maintainer: Raymond Velasquez <at.supermamon@gmail.com>
+Installed-Size: 366
+Depends: mobilesubstrate
+Filename: ./debs/com.supermamon.codetidy_0.0.1-10_iphoneos-arm.deb
+Size: 101322
+MD5sum: 8306dfe15556ed4c92907b9bf221c316
+SHA1: a6ef7f02730671714f70b23d267aff89c71df53a
+SHA256: 5e98148316242ef020ffec09f4495a8a519c1b8058aad908dfad369e899b41ef
+Section: Tweaks
+Description: Hide items on the Passcode Screen.
+ Request by /u/ajjasper792
+Author: Raymond Velasquez <at.supermamon@gmail.com>
+Depiction: https://supermamon.github.io/repo/depictions/?p=com.supermamon.codetidy
+Name: CodeTidy
+
